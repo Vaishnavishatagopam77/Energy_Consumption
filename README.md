@@ -1,7 +1,7 @@
 
 # Residential Energy Prediction 
 
-Welcome to the Residential Energy Consumption Prediction project – now adapted and documented by **Sreeja indrala**.
+Welcome to the Residential Energy Consumption Prediction project – now adapted and documented by Vaishnavi
 
 > Forked and enhanced from the original [project](https://github.com/nipun-goyal/Residential-Energy-Consumption-Prediction).
 
@@ -87,7 +87,7 @@ Used `GridSearchCV` across all models. Best performing model: **XGBoost**, based
 
 ```bash
 # Clone the repository
-git clone https://github.com/BytesofSurajm/Residential-Energy-Consumption-Prediction.git
+git clone https://github.com/vaishnavishatagopam77/Residential-Energy-Consumption-Prediction.git
 cd Residential-Energy-Consumption-Prediction
 
 # Create virtual environment
@@ -111,7 +111,7 @@ Open `1.0-Residential-Energy-Modeling.ipynb` and run all cells.
 ---
 
 ### 👨‍💻 Author
-Maintained by **Sreeja** | 
+Maintained by Vaishnavi Shatagopam| 
 *Built for students, educators, and curious minds in energy analytics.*
 
 ---
